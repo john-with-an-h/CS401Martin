@@ -1,4 +1,4 @@
-<?php require_once "headerLogo.html"; ?>
+<?php require_once "headerLogo.php"; ?>
 
 <body>
     <article>
@@ -11,4 +11,4 @@
     </article>
   </body>
 </html>
-<?php require_once "footer.html"; ?>
+<?php require_once "footer.php"; ?>

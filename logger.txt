@@ -1,0 +1,8 @@
+1603770569 - DEBUG --> getting a connection 
+1603770569 - DEBUG --> user =[sdfajjasdf] 
+1603770569 - DEBUG --> user = 
+1603770569 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1603770571 - DEBUG --> getting a connection 

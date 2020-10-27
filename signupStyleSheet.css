@@ -12,7 +12,7 @@
 }
 .signupUsername input[type=text] {
     position: static;
-    margin: 5px;
+    margin: 10px;
     font-size: 15px;
   }
   .signupUsername {
@@ -20,10 +20,19 @@
   }
   .signupPassword input[type=text] {
     position: static;
-    margin: 5px;
-    font-size: 15px;
+    margin: 10px;
+    font-size: 20px;
   }
-
+  .confirmPassword input[type=text]{
+    position: static;
+    margin: 10px;
+    font-size: 20px;
+  }
+  .confirmPassword {
+    text-align: center;
+    padding-bottom: 10px;
+    border: black;
+  }
   .signupPassword{
     text-align: center;
     padding-bottom: 10px;

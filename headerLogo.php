@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,6 +25,7 @@
         <li><a href="MyRecipes.php">Your Recipes</a></li>
         <li><a href="LogIn.php">Log in</a></li>
         <li><a href="SignUp.php">Sign up</a></li>
+        <li><a href="logoutHandler.php">Log Out</a></li>
       </ul>
     </div>
   </main>
