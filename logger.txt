@@ -233,3 +233,9 @@
 1605321786 - DEBUG -->  the connection 
 1605321786 - DEBUG -->  connection 
 1605321786 - DEBUG --> success 1  
+1605324466 - DEBUG --> getting a connection 
+1605324467 - DEBUG --> getting a connection 
+1605324467 - DEBUG --> go connection 
+1605324467 - DEBUG -->  the connection 
+1605324467 - DEBUG -->  connection 
+1605324467 - DEBUG --> success 1  
