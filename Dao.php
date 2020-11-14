@@ -1,20 +1,20 @@
 <?php require_once "JMartinlogger.php"?>
 <?php
 class Dao {
-private $host = "us-cdbr-east-02.cleardb.com"; 
+/*private $host = "us-cdbr-east-02.cleardb.com"; 
 private $db = "heroku_1a53cb3199aef08"; 
 private $user = "baed73a328e2e0";
-private $pass = "0e337b8e";
+private $pass = "0e337b8e";*/
 //public function getConnection () {
 //return
 //ew PDO("mysql:host={$this->host};dbname={$this->db}"
 
-/*private $user = 'root';
+private $user = 'root';
 private $pass = 'root';
 private $db = 'sys';
 private $host = 'localhost';
 private $port = 8889;
-*/
+
 
 public $logger;
 public function __construct () {

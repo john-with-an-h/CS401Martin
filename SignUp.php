@@ -24,7 +24,7 @@ session_start();
     ?>
       <form method="post" action ="SignUpHandler.php">
       <div class="signupUsername">
-      <div> <label for="username/email">Enter your email:</label><input id="email" type ="text" name="signupemail" 
+      <div> <label for="email">Enter your email:</label><input id="email" type ="text" name="signupemail" 
       <?php if (isset($_SESSION['email'])) {
         $san= filter_var($_SESSION["email"],FILTER_SANITIZE_SPECIAL_CHARS);
       echo "value='{$san}'";
@@ -36,7 +36,7 @@ session_start();
       <div> <label for="password">Enter your password: </label><input id="password" type ="password" name="signuppassword"/></div>
       </div>
       <div class="confirmPassword">
-    <div> <label for="password">Please confirm your password: </label><input id="password" type ="password" name="confirmpassword"/></div>
+    <div> <label for="passwords">Please confirm your password: </label><input id="passwords" type ="password" name="confirmpassword"/></div>
       </div>
    
       <div class="signupAllergies">

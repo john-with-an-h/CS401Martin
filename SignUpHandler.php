@@ -14,13 +14,13 @@ $userEmail=$_POST['signupemail'];
 if(strlen($userEmail)>256||$userEmail==null){
     $_SESSION['bad'][] = "Email is not valid must be under 256 characters";
     header("Location:SignUp.php");
-    exit();
+    
 }
 $signupPassword=$_POST["signuppassword"];
 if(strlen($signupPassword)>64||$signupPassword==null){
     $_SESSION['bad'][] = "Password is not valid must be under 64 characters";
     header("Location:SignUp.php");
-    exit();
+    
 }
 $confirmPassword=$_POST["confirmpassword"];
 if(strlen($confirmPassword)>64||$confirmPassword==null){
@@ -37,7 +37,7 @@ if($glutenAllergy=="Yes"){
 }else{
     $_SESSION['bad'][] = "Invalid input for checkbox";
     header("Location:SignUp.php");
-    exit();
+    
 
 }
 $lactoseAllergy=$_POST["lactose"];
@@ -49,7 +49,7 @@ if($lactoseAllergy=="Yes"){
 }else{
     $_SESSION['bad'][] = "Invalid input for checkbox";
     header("Location:SignUp.php");
-    exit();
+    
 }
 $peanutsAllergy=$_POST["peanuts"];
 $_SESSION["peanuts"] = $_POST["peanuts"];
@@ -60,7 +60,7 @@ if($peanutsAllergy=="Yes"){
 }else{
     $_SESSION['bad'][] = "Invalid input for checkbox";
     header("Location:SignUp.php");
-    exit();
+    
 
 }
 $treeNutsAllergy=$_POST["treenuts"];
@@ -72,7 +72,7 @@ if($treeNutsAllergy=="Yes"){
 }else{
     $_SESSION['bad'][] = "Invalid input for checkbox";
     header("Location:SignUp.php");
-    exit();
+    
 }
 $shellFishAllergy=$_POST["shellfish"];
 $_SESSION["shellfish"] = $_POST["shellfish"];
@@ -83,7 +83,7 @@ if($shellFishAllergy=="Yes"){
 }else{
     $_SESSION['bad'][] = "Invalid input for checkbox";
     header("Location:SignUp.php");
-    exit();
+    
 
 }
 $eggsAllergy=$_POST["eggs"];
@@ -95,7 +95,7 @@ if($eggsAllergy=="Yes"){
 }else{
     $_SESSION['bad'][] = "Invalid input for checkbox";
     header("Location:SignUp.php");
-    exit();
+    
 }
 $soyAllergy=$_POST["soy"];
 $_SESSION["soy"] = $_POST["soy"];
@@ -110,10 +110,10 @@ if($_SESSION["access_granted"]){
     $status =  "You are already signed in.";
   $_SESSION["status"] = $status;
 header("Location:SignUp.php");
-exit();
 }else{
 if ($signupPassword==$confirmPassword) {
     if(filter_var($userEmail, FILTER_VALIDATE_EMAIL)){
+    $signupPassword =hash("sha256", $signupPassword . "fsaj^$%654%^*009#!@42(#~~+*\]p[[");
     $worked=$dao->saveUser($userEmail , $signupPassword, $glutenAllergy, $lactoseAllergy, $peanutsAllergy, $treeNutsAllergy, $shellFishAllergy, $eggsAllergy, $soyAllergy);
     
     if($worked){

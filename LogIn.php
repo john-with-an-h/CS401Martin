@@ -18,7 +18,7 @@ session_start();
     ?>
       <form method="post" action ="loginHandler.php">
       <div class="loginUsername">
-      <div> <label for="username/email">Enter your email:</label><input id="email" type ="text" name="email"
+      <div> <label for="email">Enter your email:</label><input id="email" type ="text" name="email"
       <?php if (isset($_SESSION['bad'])) {
         $san= filter_var($_SESSION["email"],FILTER_SANITIZE_SPECIAL_CHARS);
       echo "value='{$san}'";

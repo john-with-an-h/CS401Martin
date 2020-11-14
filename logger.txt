@@ -6,3 +6,230 @@
 )
  
 1603770571 - DEBUG --> getting a connection 
+1604706273 - DEBUG --> getting a connection 
+1604706290 - DEBUG --> getting a connection 
+1604706292 - DEBUG --> getting a connection 
+1604706295 - DEBUG --> getting a connection 
+1604706339 - DEBUG --> getting a connection 
+1604706341 - DEBUG --> getting a connection 
+1604706407 - DEBUG --> getting a connection 
+1604706482 - DEBUG --> getting a connection 
+1604706486 - DEBUG --> getting a connection 
+1604706488 - DEBUG --> getting a connection 
+1604706490 - DEBUG --> getting a connection 
+1604706508 - DEBUG --> getting a connection 
+1604706511 - DEBUG --> getting a connection 
+1604706588 - DEBUG --> getting a connection 
+1604706591 - DEBUG --> getting a connection 
+1604706629 - DEBUG --> getting a connection 
+1604707043 - DEBUG --> getting a connection 
+1604707195 - DEBUG --> getting a connection 
+1604707199 - DEBUG --> getting a connection 
+1604707246 - DEBUG --> getting a connection 
+1604707249 - DEBUG --> getting a connection 
+1604707269 - DEBUG --> getting a connection 
+1604707301 - DEBUG --> getting a connection 
+1604707303 - DEBUG --> getting a connection 
+1604707308 - DEBUG --> getting a connection 
+1604707323 - DEBUG --> getting a connection 
+1604707340 - DEBUG --> getting a connection 
+1604707352 - DEBUG --> getting a connection 
+1604707374 - DEBUG --> getting a connection 
+1604707389 - DEBUG --> getting a connection 
+1604707392 - DEBUG --> getting a connection 
+1604707397 - DEBUG --> getting a connection 
+1604707416 - DEBUG --> getting a connection 
+1604707420 - DEBUG --> getting a connection 
+1604707433 - DEBUG --> getting a connection 
+1604707454 - DEBUG --> getting a connection 
+1604707474 - DEBUG --> getting a connection 
+1604707478 - DEBUG --> getting a connection 
+1604707489 - DEBUG --> getting a connection 
+1604707500 - DEBUG --> getting a connection 
+1604707511 - DEBUG --> getting a connection 
+1604707523 - DEBUG --> getting a connection 
+1604707536 - DEBUG --> getting a connection 
+1604707546 - DEBUG --> getting a connection 
+1604707558 - DEBUG --> getting a connection 
+1604707583 - DEBUG --> getting a connection 
+1604707600 - DEBUG --> getting a connection 
+1604707614 - DEBUG --> getting a connection 
+1604707628 - DEBUG --> getting a connection 
+1604707638 - DEBUG --> getting a connection 
+1604707693 - DEBUG --> getting a connection 
+1604707724 - DEBUG --> getting a connection 
+1604707728 - DEBUG --> getting a connection 
+1604708730 - DEBUG --> getting a connection 
+1604708734 - DEBUG --> getting a connection 
+1604708857 - DEBUG --> getting a connection 
+1604708876 - DEBUG --> getting a connection 
+1604708878 - DEBUG --> getting a connection 
+1604708880 - DEBUG --> getting a connection 
+1604708920 - DEBUG --> getting a connection 
+1604708924 - DEBUG --> getting a connection 
+1604708941 - DEBUG --> getting a connection 
+1604708944 - DEBUG --> getting a connection 
+1604709071 - DEBUG --> getting a connection 
+1604709089 - DEBUG --> getting a connection 
+1604709091 - DEBUG --> getting a connection 
+1604709104 - DEBUG --> getting a connection 
+1604709433 - DEBUG --> getting a connection 
+1604710013 - DEBUG --> getting a connection 
+1604710013 - DEBUG --> user =[] 
+1604710013 - DEBUG --> user = 
+1604710013 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1604710016 - DEBUG --> getting a connection 
+1604710032 - DEBUG --> getting a connection 
+1604710045 - DEBUG --> getting a connection 
+1604710838 - DEBUG --> got it 
+1604710838 - DEBUG --> getting a connection 
+1604710838 - DEBUG --> got the connection 
+1604710838 - DEBUG --> user =[gastjtj@gmial.com] 
+1604710838 - DEBUG --> password =[pass] 
+1604710838 - DEBUG --> gluten =[1] 
+1604710838 - DEBUG --> gluten =[0] 
+1604710838 - DEBUG --> gluten =[1] 
+1604710838 - DEBUG --> gluten =[0] 
+1604710838 - DEBUG --> gluten =[0] 
+1604710838 - DEBUG --> gluten =[1] 
+1604710838 - DEBUG --> gluten =[0] 
+1604710838 - DEBUG --> getting a connection 
+1604710838 - DEBUG --> user =[gastjtj@gmial.com] 
+1604710838 - DEBUG --> user = 
+1604710838 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1604710846 - DEBUG --> getting a connection 
+1604710846 - DEBUG --> user =[gastjtj@gmial.com] 
+1604710846 - DEBUG --> user = 
+1604710846 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1604710847 - DEBUG --> getting a connection 
+1604710851 - DEBUG --> getting a connection 
+1604710854 - DEBUG --> getting a connection 
+1604710866 - DEBUG --> getting a connection 
+1604710866 - DEBUG --> user =[] 
+1604710866 - DEBUG --> user = 
+1604710866 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1604870975 - DEBUG --> getting a connection 
+1604870979 - DEBUG --> getting a connection 
+1604870980 - DEBUG --> getting a connection 
+1604870982 - DEBUG --> getting a connection 
+1605317809 - DEBUG --> getting a connection 
+1605317809 - DEBUG --> user =[] 
+1605317809 - DEBUG --> user = 
+1605317809 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1605317811 - DEBUG --> getting a connection 
+1605321116 - DEBUG --> got it 
+1605321116 - DEBUG --> getting a connection 
+1605321116 - DEBUG --> got the connection 
+1605321116 - DEBUG --> user =[j@gmail.com] 
+1605321116 - DEBUG --> password =[c8a26ec57e65ea07cc9646c0ff84e699a86fbd34a793958c5b0c5b36035f6731] 
+1605321116 - DEBUG --> gluten =[1] 
+1605321116 - DEBUG --> gluten =[1] 
+1605321116 - DEBUG --> gluten =[0] 
+1605321116 - DEBUG --> gluten =[1] 
+1605321116 - DEBUG --> gluten =[0] 
+1605321116 - DEBUG --> gluten =[1] 
+1605321116 - DEBUG --> gluten =[0] 
+1605321116 - DEBUG --> getting a connection 
+1605321116 - DEBUG --> user =[j@gmail.com] 
+1605321116 - DEBUG --> user = 
+1605321116 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1605321135 - DEBUG --> getting a connection 
+1605321135 - DEBUG --> getting a connection 
+1605321135 - DEBUG --> go connection 
+1605321135 - DEBUG -->  the connection 
+1605321135 - DEBUG -->  connection 
+1605321135 - DEBUG --> success 1  
+1605321135 - DEBUG --> getting a connection 
+1605321135 - DEBUG --> user =[j@gmail.com] 
+1605321135 - DEBUG --> user = 
+1605321135 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1605321146 - DEBUG --> getting a connection 
+1605321146 - DEBUG --> user =[] 
+1605321146 - DEBUG --> user = 
+1605321146 - DEBUG --> This did it not work: Array
+(
+)
+ 
+1605321147 - DEBUG --> getting a connection 
+1605321701 - DEBUG --> getting a connection 
+1605321701 - DEBUG --> getting a connection 
+1605321701 - DEBUG --> go connection 
+1605321701 - DEBUG -->  the connection 
+1605321701 - DEBUG -->  connection 
+1605321701 - DEBUG --> success 1  
+1605321704 - DEBUG --> getting a connection 
+1605321759 - DEBUG --> getting a connection 
+1605321759 - DEBUG --> getting a connection 
+1605321759 - DEBUG --> go connection 
+1605321759 - DEBUG -->  the connection 
+1605321759 - DEBUG -->  connection 
+1605321759 - DEBUG --> success 1  
+1605321766 - DEBUG --> getting a connection 
+1605321766 - DEBUG --> getting a connection 
+1605321766 - DEBUG --> go connection 
+1605321766 - DEBUG -->  the connection 
+1605321766 - DEBUG -->  connection 
+1605321766 - DEBUG --> success 1  
+1605321769 - DEBUG --> getting a connection 
+1605321769 - DEBUG --> getting a connection 
+1605321769 - DEBUG --> go connection 
+1605321769 - DEBUG -->  the connection 
+1605321769 - DEBUG -->  connection 
+1605321769 - DEBUG --> success 1  
+1605321772 - DEBUG --> getting a connection 
+1605321772 - DEBUG --> getting a connection 
+1605321772 - DEBUG --> go connection 
+1605321772 - DEBUG -->  the connection 
+1605321772 - DEBUG -->  connection 
+1605321772 - DEBUG --> success 1  
+1605321773 - DEBUG --> getting a connection 
+1605321773 - DEBUG --> getting a connection 
+1605321773 - DEBUG --> go connection 
+1605321773 - DEBUG -->  the connection 
+1605321773 - DEBUG -->  connection 
+1605321773 - DEBUG --> success 1  
+1605321773 - DEBUG --> getting a connection 
+1605321773 - DEBUG --> getting a connection 
+1605321773 - DEBUG --> go connection 
+1605321773 - DEBUG -->  the connection 
+1605321773 - DEBUG -->  connection 
+1605321773 - DEBUG --> success 1  
+1605321774 - DEBUG --> getting a connection 
+1605321774 - DEBUG --> getting a connection 
+1605321774 - DEBUG --> go connection 
+1605321774 - DEBUG -->  the connection 
+1605321774 - DEBUG -->  connection 
+1605321774 - DEBUG --> success 1  
+1605321775 - DEBUG --> getting a connection 
+1605321775 - DEBUG --> getting a connection 
+1605321775 - DEBUG --> go connection 
+1605321775 - DEBUG -->  the connection 
+1605321775 - DEBUG -->  connection 
+1605321775 - DEBUG --> success 1  
+1605321786 - DEBUG --> getting a connection 
+1605321786 - DEBUG --> getting a connection 
+1605321786 - DEBUG --> go connection 
+1605321786 - DEBUG -->  the connection 
+1605321786 - DEBUG -->  connection 
+1605321786 - DEBUG --> success 1  

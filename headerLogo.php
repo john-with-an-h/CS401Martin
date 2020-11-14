@@ -9,12 +9,16 @@
     <link  href="loginStyleSheet.css" type="text/css" rel="stylesheet" media= "screen">
     <link  href="signupStyleSheet.css" type="text/css" rel="stylesheet" media= "screen">
     <link  href="myrecipesStyleSheet.css" type="text/css" rel="stylesheet" media= "screen">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500&family=Martel&display=swap"  rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet" type="text/css">
+    
+    
 </head>
 <header>
   <div class="background"></div>
   <img class="logo" src="Black Circle with Utensils Restaurant Logo.png" />
   <div class="slogan">
-      <h2>Recipes made for your specific needs.</h2>
+      <h2>Recipes made for your specific needs</h2>
     </div>
   </header>
 <main>

@@ -12,15 +12,14 @@ $dao->getConnection();
 $userEmail=$_POST['email'];
 if(strlen($userEmail)>256||$userEmail==null){
     $_SESSION['status'] = "Email is not valid must be under 256 characters";
-    header("Location:login.php");
-    exit();
+    
 }
 $pass=$_POST['password'];
 if(strlen($pass)>64||$pass==null){
-  $_SESSION["status"]= "Password is not valid must be under 64 characters";
-    header("Location:login.php");
-    exit();
+  $_SESSION["status"]= "Password is not valid must be under 64 characters"; 
 }
+
+$pass =hash("sha256", $pass . "fsaj^$%654%^*009#!@42(#~~+*\]p[[");
 $resul=$dao->getUser($userEmail,$pass);
 $user= $resul[0]['userEmail'];
 $p=$resul[0]['pass'];

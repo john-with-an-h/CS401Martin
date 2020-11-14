@@ -22,14 +22,13 @@ img{
   }
   .slogan{
     position: absolute;
-    top: 120px;
-    left:550px;
+    top: 5px;
+    left:495px;
     z-index: 3;
     color: rgb(255, 250, 250);
-    text-transform: uppercase;
-    font-size: 25px;
+    font-size: 45px;
     font-weight: bold;
-    font-family: 'Florence';
+    font-family: 'Marck Script', cursive;
     white-space: pre-line;
   }
   

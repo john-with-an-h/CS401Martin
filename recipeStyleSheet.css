@@ -8,8 +8,9 @@
     text-transform: uppercase;
     font-size: 25px;
     font-weight: bold;
-    font-family: 'Florence';
-}
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Martel', serif;
+}ß
 .Search input[type=text] {
     position: static;
     margin: 20px;
