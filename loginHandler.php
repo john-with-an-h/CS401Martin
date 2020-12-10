@@ -4,23 +4,28 @@
 // login_handler.php
 session_start();
 $_SESSION['email'] = $_POST['email'];
-$_SESSION['bad'] = array();
+$_SESSION['status'] = array();
 $_SESSION['good'] = array();
 $dao = new Dao();
 $dao->getConnection();
 // For simplification Lets pretend I got these login credentials from an SQL table.
 $userEmail=$_POST['email'];
 if(strlen($userEmail)>256||$userEmail==null){
-    $_SESSION['status'] = "Email is not valid must be under 256 characters";
+    $_SESSION['status'] []= "Email is not valid must be under 256 characters";
     header("Location:LogIn.php");
     
 }
 $pass=$_POST['password'];
 if(strlen($pass)>64||$pass==null){
-  $_SESSION["status"]= "Password is not valid must be under 64 characters";
+  $_SESSION["status"][]= "Password is not valid must be under 64 characters";
     header("Location:LogIn.php");
     
 }
+if($_SESSION["access_granted"]){
+  $status =  "You are already signed in.";
+$_SESSION["status"] []= $status;
+header("Location:LogIn.php");
+}else{
 $pass =hash("sha256", $pass . "fsaj^$%654%^*009#!@42(#~~+*\]p[[");
 $resul=$dao->getUser($userEmail,$pass);
 $user= $resul[0]['userEmail'];
@@ -30,7 +35,8 @@ if ($p == $pass) {
   header("Location:granted.php");  
 } else {
   $_SESSION["access_granted"]=false;
-  $_SESSION["status"] = "Invalid username or password";
+  $_SESSION["status"][] = "Invalid username or password";
   header("Location:LogIn.php");
+}
 }
 ?>

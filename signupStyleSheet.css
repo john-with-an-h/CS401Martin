@@ -6,59 +6,88 @@
     padding-top: 40px;
     padding-bottom: 0px;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
-    font-family: 'Florence';
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .signupUsername input[type=text] {
     position: static;
-    margin: 10px;
-    font-size: 15px;
+
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  .signupUsername input{
+    font-size: 20px;
   }
   .signupUsername {
     border: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   .signupPassword input[type=text] {
     position: static;
-    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  .signupPassword input{
     font-size: 20px;
   }
   .confirmPassword input[type=text]{
     position: static;
-    margin: 10px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .confirmPassword input{
     font-size: 20px;
   }
   .confirmPassword {
     text-align: center;
     padding-bottom: 10px;
     border: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   .signupPassword{
     text-align: center;
     padding-bottom: 10px;
     border: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   .signupPassword h2{
     color: rgb(15, 15, 15);
-    font-size: 15px;
-    font-family: 'Florence';
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   .signupUsername {
     text-align: center;
     padding-bottom: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   .signupButton {
     text-align: center;
     padding-bottom: 200px;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   .signupAllergies{
     text-align: center;
     padding-top: 10px;
+    font-size: 20px;
     padding-bottom: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   .signupButton button {
     position: static;
     text-align: center;
     font-size: 20px;
     cursor: pointer;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  .signupButton input{
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
   }

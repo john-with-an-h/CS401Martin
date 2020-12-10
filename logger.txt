@@ -1,241 +1,850 @@
-1603770569 - DEBUG --> getting a connection 
-1603770569 - DEBUG --> user =[sdfajjasdf] 
-1603770569 - DEBUG --> user = 
-1603770569 - DEBUG --> This did it not work: Array
-(
-)
- 
-1603770571 - DEBUG --> getting a connection 
-1604706273 - DEBUG --> getting a connection 
-1604706290 - DEBUG --> getting a connection 
-1604706292 - DEBUG --> getting a connection 
-1604706295 - DEBUG --> getting a connection 
-1604706339 - DEBUG --> getting a connection 
-1604706341 - DEBUG --> getting a connection 
-1604706407 - DEBUG --> getting a connection 
-1604706482 - DEBUG --> getting a connection 
-1604706486 - DEBUG --> getting a connection 
-1604706488 - DEBUG --> getting a connection 
-1604706490 - DEBUG --> getting a connection 
-1604706508 - DEBUG --> getting a connection 
-1604706511 - DEBUG --> getting a connection 
-1604706588 - DEBUG --> getting a connection 
-1604706591 - DEBUG --> getting a connection 
-1604706629 - DEBUG --> getting a connection 
-1604707043 - DEBUG --> getting a connection 
-1604707195 - DEBUG --> getting a connection 
-1604707199 - DEBUG --> getting a connection 
-1604707246 - DEBUG --> getting a connection 
-1604707249 - DEBUG --> getting a connection 
-1604707269 - DEBUG --> getting a connection 
-1604707301 - DEBUG --> getting a connection 
-1604707303 - DEBUG --> getting a connection 
-1604707308 - DEBUG --> getting a connection 
-1604707323 - DEBUG --> getting a connection 
-1604707340 - DEBUG --> getting a connection 
-1604707352 - DEBUG --> getting a connection 
-1604707374 - DEBUG --> getting a connection 
-1604707389 - DEBUG --> getting a connection 
-1604707392 - DEBUG --> getting a connection 
-1604707397 - DEBUG --> getting a connection 
-1604707416 - DEBUG --> getting a connection 
-1604707420 - DEBUG --> getting a connection 
-1604707433 - DEBUG --> getting a connection 
-1604707454 - DEBUG --> getting a connection 
-1604707474 - DEBUG --> getting a connection 
-1604707478 - DEBUG --> getting a connection 
-1604707489 - DEBUG --> getting a connection 
-1604707500 - DEBUG --> getting a connection 
-1604707511 - DEBUG --> getting a connection 
-1604707523 - DEBUG --> getting a connection 
-1604707536 - DEBUG --> getting a connection 
-1604707546 - DEBUG --> getting a connection 
-1604707558 - DEBUG --> getting a connection 
-1604707583 - DEBUG --> getting a connection 
-1604707600 - DEBUG --> getting a connection 
-1604707614 - DEBUG --> getting a connection 
-1604707628 - DEBUG --> getting a connection 
-1604707638 - DEBUG --> getting a connection 
-1604707693 - DEBUG --> getting a connection 
-1604707724 - DEBUG --> getting a connection 
-1604707728 - DEBUG --> getting a connection 
-1604708730 - DEBUG --> getting a connection 
-1604708734 - DEBUG --> getting a connection 
-1604708857 - DEBUG --> getting a connection 
-1604708876 - DEBUG --> getting a connection 
-1604708878 - DEBUG --> getting a connection 
-1604708880 - DEBUG --> getting a connection 
-1604708920 - DEBUG --> getting a connection 
-1604708924 - DEBUG --> getting a connection 
-1604708941 - DEBUG --> getting a connection 
-1604708944 - DEBUG --> getting a connection 
-1604709071 - DEBUG --> getting a connection 
-1604709089 - DEBUG --> getting a connection 
-1604709091 - DEBUG --> getting a connection 
-1604709104 - DEBUG --> getting a connection 
-1604709433 - DEBUG --> getting a connection 
-1604710013 - DEBUG --> getting a connection 
-1604710013 - DEBUG --> user =[] 
-1604710013 - DEBUG --> user = 
-1604710013 - DEBUG --> This did it not work: Array
-(
-)
- 
-1604710016 - DEBUG --> getting a connection 
-1604710032 - DEBUG --> getting a connection 
-1604710045 - DEBUG --> getting a connection 
-1604710838 - DEBUG --> got it 
-1604710838 - DEBUG --> getting a connection 
-1604710838 - DEBUG --> got the connection 
-1604710838 - DEBUG --> user =[gastjtj@gmial.com] 
-1604710838 - DEBUG --> password =[pass] 
-1604710838 - DEBUG --> gluten =[1] 
-1604710838 - DEBUG --> gluten =[0] 
-1604710838 - DEBUG --> gluten =[1] 
-1604710838 - DEBUG --> gluten =[0] 
-1604710838 - DEBUG --> gluten =[0] 
-1604710838 - DEBUG --> gluten =[1] 
-1604710838 - DEBUG --> gluten =[0] 
-1604710838 - DEBUG --> getting a connection 
-1604710838 - DEBUG --> user =[gastjtj@gmial.com] 
-1604710838 - DEBUG --> user = 
-1604710838 - DEBUG --> This did it not work: Array
-(
-)
- 
-1604710846 - DEBUG --> getting a connection 
-1604710846 - DEBUG --> user =[gastjtj@gmial.com] 
-1604710846 - DEBUG --> user = 
-1604710846 - DEBUG --> This did it not work: Array
-(
-)
- 
-1604710847 - DEBUG --> getting a connection 
-1604710851 - DEBUG --> getting a connection 
-1604710854 - DEBUG --> getting a connection 
-1604710866 - DEBUG --> getting a connection 
-1604710866 - DEBUG --> user =[] 
-1604710866 - DEBUG --> user = 
-1604710866 - DEBUG --> This did it not work: Array
-(
-)
- 
-1604870975 - DEBUG --> getting a connection 
-1604870979 - DEBUG --> getting a connection 
-1604870980 - DEBUG --> getting a connection 
-1604870982 - DEBUG --> getting a connection 
-1605317809 - DEBUG --> getting a connection 
-1605317809 - DEBUG --> user =[] 
-1605317809 - DEBUG --> user = 
-1605317809 - DEBUG --> This did it not work: Array
-(
-)
- 
-1605317811 - DEBUG --> getting a connection 
-1605321116 - DEBUG --> got it 
-1605321116 - DEBUG --> getting a connection 
-1605321116 - DEBUG --> got the connection 
-1605321116 - DEBUG --> user =[j@gmail.com] 
-1605321116 - DEBUG --> password =[c8a26ec57e65ea07cc9646c0ff84e699a86fbd34a793958c5b0c5b36035f6731] 
-1605321116 - DEBUG --> gluten =[1] 
-1605321116 - DEBUG --> gluten =[1] 
-1605321116 - DEBUG --> gluten =[0] 
-1605321116 - DEBUG --> gluten =[1] 
-1605321116 - DEBUG --> gluten =[0] 
-1605321116 - DEBUG --> gluten =[1] 
-1605321116 - DEBUG --> gluten =[0] 
-1605321116 - DEBUG --> getting a connection 
-1605321116 - DEBUG --> user =[j@gmail.com] 
-1605321116 - DEBUG --> user = 
-1605321116 - DEBUG --> This did it not work: Array
-(
-)
- 
-1605321135 - DEBUG --> getting a connection 
-1605321135 - DEBUG --> getting a connection 
-1605321135 - DEBUG --> go connection 
-1605321135 - DEBUG -->  the connection 
-1605321135 - DEBUG -->  connection 
-1605321135 - DEBUG --> success 1  
-1605321135 - DEBUG --> getting a connection 
-1605321135 - DEBUG --> user =[j@gmail.com] 
-1605321135 - DEBUG --> user = 
-1605321135 - DEBUG --> This did it not work: Array
-(
-)
- 
-1605321146 - DEBUG --> getting a connection 
-1605321146 - DEBUG --> user =[] 
-1605321146 - DEBUG --> user = 
-1605321146 - DEBUG --> This did it not work: Array
-(
-)
- 
-1605321147 - DEBUG --> getting a connection 
-1605321701 - DEBUG --> getting a connection 
-1605321701 - DEBUG --> getting a connection 
-1605321701 - DEBUG --> go connection 
-1605321701 - DEBUG -->  the connection 
-1605321701 - DEBUG -->  connection 
-1605321701 - DEBUG --> success 1  
-1605321704 - DEBUG --> getting a connection 
-1605321759 - DEBUG --> getting a connection 
-1605321759 - DEBUG --> getting a connection 
-1605321759 - DEBUG --> go connection 
-1605321759 - DEBUG -->  the connection 
-1605321759 - DEBUG -->  connection 
-1605321759 - DEBUG --> success 1  
-1605321766 - DEBUG --> getting a connection 
-1605321766 - DEBUG --> getting a connection 
-1605321766 - DEBUG --> go connection 
-1605321766 - DEBUG -->  the connection 
-1605321766 - DEBUG -->  connection 
-1605321766 - DEBUG --> success 1  
-1605321769 - DEBUG --> getting a connection 
-1605321769 - DEBUG --> getting a connection 
-1605321769 - DEBUG --> go connection 
-1605321769 - DEBUG -->  the connection 
-1605321769 - DEBUG -->  connection 
-1605321769 - DEBUG --> success 1  
-1605321772 - DEBUG --> getting a connection 
-1605321772 - DEBUG --> getting a connection 
-1605321772 - DEBUG --> go connection 
-1605321772 - DEBUG -->  the connection 
-1605321772 - DEBUG -->  connection 
-1605321772 - DEBUG --> success 1  
-1605321773 - DEBUG --> getting a connection 
-1605321773 - DEBUG --> getting a connection 
-1605321773 - DEBUG --> go connection 
-1605321773 - DEBUG -->  the connection 
-1605321773 - DEBUG -->  connection 
-1605321773 - DEBUG --> success 1  
-1605321773 - DEBUG --> getting a connection 
-1605321773 - DEBUG --> getting a connection 
-1605321773 - DEBUG --> go connection 
-1605321773 - DEBUG -->  the connection 
-1605321773 - DEBUG -->  connection 
-1605321773 - DEBUG --> success 1  
-1605321774 - DEBUG --> getting a connection 
-1605321774 - DEBUG --> getting a connection 
-1605321774 - DEBUG --> go connection 
-1605321774 - DEBUG -->  the connection 
-1605321774 - DEBUG -->  connection 
-1605321774 - DEBUG --> success 1  
-1605321775 - DEBUG --> getting a connection 
-1605321775 - DEBUG --> getting a connection 
-1605321775 - DEBUG --> go connection 
-1605321775 - DEBUG -->  the connection 
-1605321775 - DEBUG -->  connection 
-1605321775 - DEBUG --> success 1  
-1605321786 - DEBUG --> getting a connection 
-1605321786 - DEBUG --> getting a connection 
-1605321786 - DEBUG --> go connection 
-1605321786 - DEBUG -->  the connection 
-1605321786 - DEBUG -->  connection 
-1605321786 - DEBUG --> success 1  
-1605324466 - DEBUG --> getting a connection 
-1605324467 - DEBUG --> getting a connection 
-1605324467 - DEBUG --> go connection 
-1605324467 - DEBUG -->  the connection 
-1605324467 - DEBUG -->  connection 
-1605324467 - DEBUG --> success 1  
+1607465556 - DEBUG -->  
+1607465556 - DEBUG --> rice 
+1607465556 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465556 - DEBUG --> getting a connection 
+1607465558 - DEBUG -->  
+1607465558 - DEBUG --> rice 
+1607465558 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465558 - DEBUG --> getting a connection 
+1607465560 - DEBUG -->  
+1607465560 - DEBUG --> rice 
+1607465560 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465560 - DEBUG --> getting a connection 
+1607465561 - DEBUG -->  
+1607465561 - DEBUG --> rice 
+1607465561 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465561 - DEBUG --> getting a connection 
+1607465588 - DEBUG -->  
+1607465588 - DEBUG --> rice 
+1607465588 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465588 - DEBUG --> getting a connection 
+1607465590 - DEBUG -->  
+1607465590 - DEBUG --> rice 
+1607465590 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465590 - DEBUG --> getting a connection 
+1607465590 - DEBUG -->  
+1607465590 - DEBUG --> rice 
+1607465590 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465590 - DEBUG --> getting a connection 
+1607465623 - DEBUG -->  
+1607465623 - DEBUG --> rice 
+1607465623 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465623 - DEBUG --> getting a connection 
+1607465623 - DEBUG -->  connection1 
+1607465623 - DEBUG -->  connection2 
+1607465623 - DEBUG --> %rice% 
+1607465623 - DEBUG --> %:title% 
+1607465623 - DEBUG -->  connection3 
+1607465623 - DEBUG -->  connection4 
+1607465623 - DEBUG --> 1 
+1607465623 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607465623 - DEBUG -->  
+1607465623 - DEBUG -->  this actually did something 
+1607465629 - DEBUG --> getting a connection 
+1607465629 - DEBUG -->  
+1607465631 - DEBUG --> getting a connection 
+1607465651 - DEBUG --> getting a connection 
+1607465661 - DEBUG --> rice 
+1607465661 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465661 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465661 - DEBUG -->  
+1607465661 - DEBUG --> rice 
+1607465661 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465661 - DEBUG --> getting a connection 
+1607465774 - DEBUG -->  
+1607465774 - DEBUG --> rice 
+1607465774 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465774 - DEBUG --> getting a connection 
+1607465775 - DEBUG -->  
+1607465775 - DEBUG --> rice 
+1607465775 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465775 - DEBUG --> getting a connection 
+1607465776 - DEBUG --> getting a connection 
+1607465776 - DEBUG -->  
+1607465778 - DEBUG -->  
+1607465778 - DEBUG --> rice 
+1607465778 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465778 - DEBUG --> getting a connection 
+1607465782 - DEBUG -->  
+1607465782 - DEBUG --> rice 
+1607465782 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465782 - DEBUG --> getting a connection 
+1607465784 - DEBUG --> getting a connection 
+1607465784 - DEBUG -->  
+1607465785 - DEBUG -->  
+1607465785 - DEBUG --> rice 
+1607465785 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465785 - DEBUG --> getting a connection 
+1607465787 - DEBUG --> getting a connection 
+1607465787 - DEBUG -->  
+1607465789 - DEBUG -->  
+1607465789 - DEBUG --> rice 
+1607465789 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465789 - DEBUG --> getting a connection 
+1607465792 - DEBUG --> getting a connection 
+1607465792 - DEBUG -->  
+1607465792 - DEBUG -->  
+1607465792 - DEBUG --> rice 
+1607465792 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465792 - DEBUG --> getting a connection 
+1607465794 - DEBUG -->  
+1607465794 - DEBUG --> rice 
+1607465794 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465794 - DEBUG --> getting a connection 
+1607465796 - DEBUG --> getting a connection 
+1607465796 - DEBUG -->  
+1607465797 - DEBUG -->  
+1607465797 - DEBUG --> rice 
+1607465797 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465797 - DEBUG --> getting a connection 
+1607465799 - DEBUG -->  
+1607465799 - DEBUG --> rice 
+1607465799 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465799 - DEBUG --> getting a connection 
+1607465813 - DEBUG -->  
+1607465813 - DEBUG --> rice 
+1607465813 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465813 - DEBUG --> getting a connection 
+1607465813 - DEBUG -->  connection1 
+1607465813 - DEBUG -->  connection2 
+1607465813 - DEBUG --> %rice% 
+1607465813 - DEBUG --> %:title% 
+1607465813 - DEBUG -->  connection3 
+1607465813 - DEBUG -->  connection4 
+1607465813 - DEBUG --> 1 
+1607465813 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607465813 - DEBUG -->  
+1607465813 - DEBUG -->  this actually did something 
+1607465818 - DEBUG --> getting a connection 
+1607465822 - DEBUG --> rice 
+1607465822 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465822 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465822 - DEBUG -->  
+1607465822 - DEBUG --> rice 
+1607465822 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465822 - DEBUG --> getting a connection 
+1607465822 - DEBUG -->  connection1 
+1607465822 - DEBUG -->  connection2 
+1607465822 - DEBUG --> %rice% 
+1607465822 - DEBUG --> %:title% 
+1607465822 - DEBUG -->  connection3 
+1607465822 - DEBUG -->  connection4 
+1607465822 - DEBUG --> 1 
+1607465822 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607465822 - DEBUG -->  
+1607465822 - DEBUG -->  this actually did something 
+1607465859 - DEBUG --> rice 
+1607465859 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465859 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465859 - DEBUG -->  
+1607465859 - DEBUG --> rice 
+1607465859 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465859 - DEBUG --> getting a connection 
+1607465859 - DEBUG -->  connection1 
+1607465859 - DEBUG -->  connection2 
+1607465859 - DEBUG --> %% 
+1607465859 - DEBUG --> %:title% 
+1607465859 - DEBUG -->  connection3 
+1607465859 - DEBUG -->  connection4 
+1607465859 - DEBUG --> 2 
+1607465859 - DEBUG --> ga@gdmail.com 
+1607465859 - DEBUG -->  
+1607465859 - DEBUG -->  this actually did something 
+1607465867 - DEBUG --> rice 
+1607465867 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465867 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465867 - DEBUG -->  
+1607465867 - DEBUG --> rice 
+1607465867 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465867 - DEBUG --> getting a connection 
+1607465867 - DEBUG -->  connection1 
+1607465867 - DEBUG -->  connection2 
+1607465867 - DEBUG --> %% 
+1607465867 - DEBUG --> %:title% 
+1607465867 - DEBUG -->  connection3 
+1607465867 - DEBUG -->  connection4 
+1607465867 - DEBUG --> 2 
+1607465867 - DEBUG --> ga@gdmail.com 
+1607465867 - DEBUG -->  
+1607465867 - DEBUG -->  this actually did something 
+1607465885 - DEBUG --> bread 
+1607465885 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465885 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465885 - DEBUG -->  
+1607465885 - DEBUG --> bread 
+1607465885 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465885 - DEBUG --> getting a connection 
+1607465885 - DEBUG -->  connection1 
+1607465885 - DEBUG -->  connection2 
+1607465885 - DEBUG --> %% 
+1607465885 - DEBUG --> %:title% 
+1607465885 - DEBUG -->  connection3 
+1607465885 - DEBUG -->  connection4 
+1607465885 - DEBUG --> 2 
+1607465885 - DEBUG --> ga@gdmail.com 
+1607465885 - DEBUG -->  
+1607465885 - DEBUG -->  this actually did something 
+1607465959 - DEBUG --> bread 
+1607465959 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465959 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607465959 - DEBUG -->  
+1607465959 - DEBUG --> bread 
+1607465959 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607465959 - DEBUG --> getting a connection 
+1607465959 - DEBUG -->  connection1 
+1607465959 - DEBUG -->  connection2 
+1607465959 - DEBUG --> %% 
+1607465959 - DEBUG --> %:title% 
+1607465959 - DEBUG -->  connection3 
+1607465959 - DEBUG -->  connection4 
+1607465959 - DEBUG --> 2 
+1607465959 - DEBUG --> ga@gdmail.com 
+1607465959 - DEBUG -->  
+1607465959 - DEBUG --> 2 
+1607465959 - DEBUG -->  this actually did something 
+1607466018 - DEBUG --> bread 
+1607466018 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607466018 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607466018 - DEBUG -->  
+1607466018 - DEBUG --> bread 
+1607466018 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607466018 - DEBUG --> getting a connection 
+1607466018 - DEBUG -->  connection1 
+1607466018 - DEBUG -->  connection2 
+1607466018 - DEBUG --> %bread% 
+1607466018 - DEBUG --> %:title% 
+1607466018 - DEBUG -->  connection3 
+1607466018 - DEBUG -->  connection4 
+1607466018 - DEBUG --> 1 
+1607466018 - DEBUG --> ga@gdmail.com 
+1607466018 - DEBUG -->  
+1607466018 - DEBUG --> 1 
+1607466018 - DEBUG -->  this actually did something 
+1607466024 - DEBUG --> rice 
+1607466024 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607466024 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607466024 - DEBUG -->  
+1607466024 - DEBUG --> rice 
+1607466024 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607466024 - DEBUG --> getting a connection 
+1607466024 - DEBUG -->  connection1 
+1607466024 - DEBUG -->  connection2 
+1607466024 - DEBUG --> %rice% 
+1607466024 - DEBUG --> %:title% 
+1607466024 - DEBUG -->  connection3 
+1607466024 - DEBUG -->  connection4 
+1607466024 - DEBUG --> 0 
+1607466024 - DEBUG -->  
+1607466024 - DEBUG -->  
+1607466024 - DEBUG --> 0 
+1607466024 - DEBUG -->  this actually did something 
+1607466027 - DEBUG --> getting a connection 
+1607466027 - DEBUG -->  
+1607466038 - DEBUG --> getting a connection 
+1607466038 - DEBUG -->  
+1607555599 - DEBUG --> getting a connection 
+1607555599 - DEBUG -->  
+1607555611 - DEBUG --> getting a connection 
+1607555851 - DEBUG --> getting a connection 
+1607555851 - DEBUG -->  
+1607555879 - DEBUG --> getting a connection 
+1607555879 - DEBUG -->  
+1607555885 - DEBUG -->  
+1607555885 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555885 - DEBUG --> getting a connection 
+1607555885 - DEBUG -->  
+1607555890 - DEBUG --> lemon 
+1607555890 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555890 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555890 - DEBUG --> lemon 
+1607555890 - DEBUG --> lemon 
+1607555890 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607555890 - DEBUG --> getting a connection 
+1607555890 - DEBUG -->  connection1 
+1607555890 - DEBUG -->  connection2 
+1607555890 - DEBUG --> %lemon% 
+1607555890 - DEBUG --> %:title% 
+1607555890 - DEBUG -->  connection3 
+1607555890 - DEBUG -->  connection4 
+1607555890 - DEBUG --> 1 
+1607555890 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607555890 - DEBUG -->  
+1607555890 - DEBUG -->  this actually did something 
+1607555890 - DEBUG --> lemon 
+1607555894 - DEBUG -->  
+1607555894 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555894 - DEBUG --> getting a connection 
+1607555894 - DEBUG -->  
+1607555943 - DEBUG --> got it 
+1607555943 - DEBUG --> getting a connection 
+1607555943 - DEBUG --> got the connection 
+1607555943 - DEBUG --> user =[the@gmialh.com] 
+1607555943 - DEBUG --> password =[7044e832d053e125482e947fbf14fda82ce068c8ab8d763662891976583c9e1f] 
+1607555943 - DEBUG --> gluten =[1] 
+1607555943 - DEBUG --> gluten =[1] 
+1607555943 - DEBUG --> gluten =[0] 
+1607555943 - DEBUG --> gluten =[0] 
+1607555943 - DEBUG --> gluten =[1] 
+1607555943 - DEBUG --> gluten =[0] 
+1607555943 - DEBUG --> gluten =[0] 
+1607555943 - DEBUG --> getting a connection 
+1607555946 - DEBUG --> getting a connection 
+1607555946 - DEBUG -->  
+1607555948 - DEBUG -->  
+1607555948 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555948 - DEBUG --> 2 
+1607555948 - DEBUG --> getting a connection 
+1607555948 - DEBUG --> 1 
+1607555948 - DEBUG --> 1 
+1607555948 - DEBUG --> 1 
+1607555948 - DEBUG --> 1 
+1607555948 - DEBUG --> 1 
+1607555948 - DEBUG --> 0 
+1607555948 - DEBUG --> 1 
+1607555948 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1607555948 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607555948 - DEBUG --> the@gmialh.com 
+1607555948 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607555948 - DEBUG --> getting a connection 
+1607555948 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607555948 - DEBUG -->  
+1607555948 - DEBUG --> getting a connection 
+1607555948 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1607555948 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607555948 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607555948 - DEBUG --> getting a connection 
+1607555948 - DEBUG -->  
+1607555951 - DEBUG -->  
+1607555951 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555951 - DEBUG --> 0 
+1607555951 - DEBUG --> getting a connection 
+1607555951 - DEBUG --> 1 
+1607555951 - DEBUG --> 0 
+1607555951 - DEBUG --> 1 
+1607555951 - DEBUG --> 1 
+1607555951 - DEBUG --> 1 
+1607555951 - DEBUG --> 0 
+1607555951 - DEBUG --> 1 
+1607555951 - DEBUG --> 
+The Chewy Gluten Free 
+1607555951 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555951 - DEBUG --> the@gmialh.com 
+1607555951 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555951 - DEBUG --> getting a connection 
+1607555951 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607555951 - DEBUG -->  
+1607555951 - DEBUG --> getting a connection 
+1607555951 - DEBUG --> 
+The Chewy Gluten Free 
+1607555951 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555951 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555951 - DEBUG --> getting a connection 
+1607555951 - DEBUG -->  
+1607555954 - DEBUG -->  
+1607555954 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555954 - DEBUG --> 0 
+1607555954 - DEBUG --> getting a connection 
+1607555954 - DEBUG --> 1 
+1607555954 - DEBUG --> 0 
+1607555954 - DEBUG --> 1 
+1607555954 - DEBUG --> 1 
+1607555954 - DEBUG --> 1 
+1607555954 - DEBUG --> 0 
+1607555954 - DEBUG --> 1 
+1607555954 - DEBUG --> 
+The Chewy Gluten Free 
+1607555954 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555954 - DEBUG --> the@gmialh.com 
+1607555954 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555954 - DEBUG --> getting a connection 
+1607555954 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607555954 - DEBUG --> the@gmialh.com 
+1607555954 - DEBUG --> getting a connection 
+1607555954 - DEBUG -->  
+1607555959 - DEBUG --> getting a connection 
+1607555974 - DEBUG --> getting a connection 
+1607555974 - DEBUG --> getting a connection 
+1607555974 - DEBUG --> go connection 
+1607555974 - DEBUG -->  the connection 
+1607555974 - DEBUG -->  connection 
+1607555974 - DEBUG --> success 1  
+1607555974 - DEBUG --> getting a connection 
+1607555977 - DEBUG --> getting a connection 
+1607555977 - DEBUG -->  
+1607555980 - DEBUG -->  
+1607555980 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555980 - DEBUG --> 0 
+1607555980 - DEBUG --> getting a connection 
+1607555980 - DEBUG --> 1 
+1607555980 - DEBUG --> 0 
+1607555980 - DEBUG --> 1 
+1607555980 - DEBUG --> 1 
+1607555980 - DEBUG --> 1 
+1607555980 - DEBUG --> 0 
+1607555980 - DEBUG --> 1 
+1607555980 - DEBUG --> 
+The Chewy Gluten Free 
+1607555980 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555980 - DEBUG --> the@gmialh.com 
+1607555980 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555980 - DEBUG --> getting a connection 
+1607555980 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607555980 - DEBUG --> the@gmialh.com 
+1607555980 - DEBUG --> getting a connection 
+1607555980 - DEBUG -->  
+1607555984 - DEBUG -->  
+1607555984 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555984 - DEBUG --> 2 
+1607555984 - DEBUG --> getting a connection 
+1607555984 - DEBUG --> 1 
+1607555984 - DEBUG --> 1 
+1607555984 - DEBUG --> 1 
+1607555984 - DEBUG --> 1 
+1607555984 - DEBUG --> 1 
+1607555984 - DEBUG --> 0 
+1607555984 - DEBUG --> 1 
+1607555984 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1607555984 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607555984 - DEBUG --> the@gmialh.com 
+1607555984 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607555984 - DEBUG --> getting a connection 
+1607555984 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607555984 - DEBUG --> the@gmialh.com 
+1607555984 - DEBUG --> getting a connection 
+1607555984 - DEBUG -->  
+1607555989 - DEBUG --> gluten 
+1607555989 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555989 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607555989 - DEBUG -->  
+1607555989 - DEBUG --> getting a connection 
+1607555989 - DEBUG --> 1 
+1607555989 - DEBUG --> 0 
+1607555989 - DEBUG --> 1 
+1607555989 - DEBUG --> 1 
+1607555989 - DEBUG --> 1 
+1607555989 - DEBUG --> 0 
+1607555989 - DEBUG --> 1 
+1607555989 - DEBUG --> 
+The Chewy Gluten Free 
+1607555989 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555989 - DEBUG --> the@gmialh.com 
+1607555989 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555989 - DEBUG --> getting a connection 
+1607555989 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607555989 - DEBUG --> the@gmialh.com 
+1607555989 - DEBUG --> gluten 
+1607555989 - DEBUG --> gluten 
+1607555989 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607555989 - DEBUG --> getting a connection 
+1607555989 - DEBUG -->  connection1 
+1607555989 - DEBUG -->  connection2 
+1607555989 - DEBUG --> %gluten% 
+1607555989 - DEBUG --> %:title% 
+1607555989 - DEBUG -->  connection3 
+1607555989 - DEBUG -->  connection4 
+1607555989 - DEBUG --> 2 
+1607555989 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607555989 - DEBUG -->  
+1607555989 - DEBUG -->  this actually did something 
+1607555989 - DEBUG --> gluten 
+1607556064 - DEBUG --> getting a connection 
+1607556064 - DEBUG -->  
+1607556088 - DEBUG --> got it 
+1607556088 - DEBUG --> getting a connection 
+1607556088 - DEBUG --> got the connection 
+1607556088 - DEBUG --> user =[gas@gdsfmial.com] 
+1607556088 - DEBUG --> password =[7044e832d053e125482e947fbf14fda82ce068c8ab8d763662891976583c9e1f] 
+1607556088 - DEBUG --> gluten =[1] 
+1607556088 - DEBUG --> gluten =[1] 
+1607556088 - DEBUG --> gluten =[0] 
+1607556088 - DEBUG --> gluten =[0] 
+1607556088 - DEBUG --> gluten =[1] 
+1607556088 - DEBUG --> gluten =[0] 
+1607556088 - DEBUG --> gluten =[0] 
+1607556088 - DEBUG --> getting a connection 
+1607556094 - DEBUG --> getting a connection 
+1607556094 - DEBUG -->  
+1607556100 - DEBUG -->  
+1607556100 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556100 - DEBUG --> 1 
+1607556100 - DEBUG --> getting a connection 
+1607556100 - DEBUG --> 1 
+1607556100 - DEBUG --> 1 
+1607556100 - DEBUG --> 1 
+1607556100 - DEBUG --> 1 
+1607556100 - DEBUG --> 1 
+1607556100 - DEBUG --> 1 
+1607556100 - DEBUG --> 1 
+1607556100 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607556100 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607556100 - DEBUG --> gas@gdsfmial.com 
+1607556100 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607556100 - DEBUG --> getting a connection 
+1607556100 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607556100 - DEBUG -->  
+1607556100 - DEBUG --> getting a connection 
+1607556100 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607556100 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607556100 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607556100 - DEBUG --> getting a connection 
+1607556100 - DEBUG -->  
+1607556112 - DEBUG -->  
+1607556112 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556112 - DEBUG --> 0 
+1607556112 - DEBUG --> getting a connection 
+1607556112 - DEBUG --> 1 
+1607556112 - DEBUG --> 0 
+1607556112 - DEBUG --> 1 
+1607556112 - DEBUG --> 1 
+1607556112 - DEBUG --> 1 
+1607556112 - DEBUG --> 0 
+1607556112 - DEBUG --> 1 
+1607556112 - DEBUG --> 
+The Chewy Gluten Free 
+1607556112 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607556112 - DEBUG --> gas@gdsfmial.com 
+1607556112 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607556112 - DEBUG --> getting a connection 
+1607556112 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607556112 - DEBUG -->  
+1607556112 - DEBUG --> getting a connection 
+1607556112 - DEBUG --> 
+The Chewy Gluten Free 
+1607556112 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607556112 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607556112 - DEBUG --> getting a connection 
+1607556112 - DEBUG -->  
+1607556121 - DEBUG --> shrimp 
+1607556121 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556121 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556121 - DEBUG -->  
+1607556121 - DEBUG --> getting a connection 
+1607556121 - DEBUG --> 1 
+1607556121 - DEBUG --> 0 
+1607556121 - DEBUG --> 1 
+1607556121 - DEBUG --> 1 
+1607556121 - DEBUG --> 1 
+1607556121 - DEBUG --> 0 
+1607556121 - DEBUG --> 1 
+1607556121 - DEBUG --> 
+The Chewy Gluten Free 
+1607556121 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607556121 - DEBUG --> gas@gdsfmial.com 
+1607556121 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607556121 - DEBUG --> getting a connection 
+1607556121 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607556121 - DEBUG --> gas@gdsfmial.com 
+1607556121 - DEBUG --> shrimp 
+1607556121 - DEBUG --> shrimp 
+1607556121 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607556121 - DEBUG --> getting a connection 
+1607556121 - DEBUG -->  connection1 
+1607556121 - DEBUG -->  connection2 
+1607556121 - DEBUG --> %shrimp% 
+1607556121 - DEBUG --> %:title% 
+1607556121 - DEBUG -->  connection3 
+1607556121 - DEBUG -->  connection4 
+1607556121 - DEBUG --> 1 
+1607556121 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607556121 - DEBUG -->  
+1607556121 - DEBUG -->  this actually did something 
+1607556121 - DEBUG --> shrimp 
+1607556127 - DEBUG -->  
+1607556127 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556127 - DEBUG --> 0 
+1607556127 - DEBUG --> getting a connection 
+1607556127 - DEBUG --> 1 
+1607556127 - DEBUG --> 1 
+1607556127 - DEBUG --> 1 
+1607556127 - DEBUG --> 1 
+1607556127 - DEBUG --> 0 
+1607556127 - DEBUG --> 1 
+1607556127 - DEBUG --> 1 
+1607556127 - DEBUG --> 
+Green Salad with Shrimp and Wine Vinaigrette 
+1607556127 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607556127 - DEBUG --> gas@gdsfmial.com 
+1607556127 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607556127 - DEBUG --> getting a connection 
+1607556127 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607556127 - DEBUG -->  
+1607556127 - DEBUG --> getting a connection 
+1607556127 - DEBUG --> 
+Green Salad with Shrimp and Wine Vinaigrette 
+1607556127 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607556127 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607556127 - DEBUG --> getting a connection 
+1607556127 - DEBUG -->  
+1607556136 - DEBUG --> getting a connection 
+1607556144 - DEBUG --> bread 
+1607556144 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556144 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556144 - DEBUG -->  
+1607556144 - DEBUG --> bread 
+1607556144 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607556144 - DEBUG --> getting a connection 
+1607556144 - DEBUG -->  connection1 
+1607556144 - DEBUG -->  connection2 
+1607556144 - DEBUG --> %bread% 
+1607556144 - DEBUG --> %:title% 
+1607556144 - DEBUG -->  connection3 
+1607556144 - DEBUG -->  connection4 
+1607556144 - DEBUG --> 0 
+1607556144 - DEBUG -->  
+1607556144 - DEBUG -->  
+1607556144 - DEBUG --> 0 
+1607556144 - DEBUG -->  this actually did something 
+1607556149 - DEBUG --> getting a connection 
+1607556149 - DEBUG -->  
+1607556152 - DEBUG -->  
+1607556152 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556152 - DEBUG --> 0 
+1607556152 - DEBUG --> getting a connection 
+1607556152 - DEBUG --> 1 
+1607556152 - DEBUG --> 0 
+1607556152 - DEBUG --> 1 
+1607556152 - DEBUG --> 1 
+1607556152 - DEBUG --> 1 
+1607556152 - DEBUG --> 0 
+1607556152 - DEBUG --> 1 
+1607556152 - DEBUG --> 
+The Chewy Gluten Free 
+1607556152 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607556152 - DEBUG --> gas@gdsfmial.com 
+1607556152 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1607556152 - DEBUG --> getting a connection 
+1607556152 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607556152 - DEBUG --> gas@gdsfmial.com 
+1607556152 - DEBUG --> getting a connection 
+1607556152 - DEBUG -->  
+1607556168 - DEBUG --> getting a connection 
+1607556168 - DEBUG --> getting a connection 
+1607556168 - DEBUG --> go connection 
+1607556168 - DEBUG -->  the connection 
+1607556168 - DEBUG -->  connection 
+1607556168 - DEBUG --> success 1  
+1607556168 - DEBUG --> getting a connection 
+1607556171 - DEBUG --> getting a connection 
+1607556171 - DEBUG -->  
+1607556174 - DEBUG -->  
+1607556174 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607556174 - DEBUG --> 1 
+1607556174 - DEBUG --> getting a connection 
+1607556174 - DEBUG --> 1 
+1607556174 - DEBUG --> 1 
+1607556174 - DEBUG --> 1 
+1607556174 - DEBUG --> 1 
+1607556174 - DEBUG --> 1 
+1607556174 - DEBUG --> 1 
+1607556174 - DEBUG --> 1 
+1607556174 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607556174 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607556174 - DEBUG --> gas@gdsfmial.com 
+1607556174 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607556174 - DEBUG --> getting a connection 
+1607556174 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607556174 - DEBUG --> gas@gdsfmial.com 
+1607556174 - DEBUG --> getting a connection 
+1607556174 - DEBUG -->  
+1607561255 - DEBUG --> getting a connection 
+1607561255 - DEBUG --> getting a connection 
+1607561255 - DEBUG --> go connection 
+1607561255 - DEBUG -->  the connection 
+1607561255 - DEBUG -->  connection 
+1607561255 - DEBUG --> success 1  
+1607562107 - DEBUG --> getting a connection 
+1607562107 - DEBUG -->  
+1607562119 - DEBUG -->  
+1607562119 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562119 - DEBUG --> getting a connection 
+1607562119 - DEBUG -->  
+1607562135 - DEBUG --> lemon 
+1607562135 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562135 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562135 - DEBUG --> lemon 
+1607562135 - DEBUG --> lemon 
+1607562135 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607562135 - DEBUG --> getting a connection 
+1607562135 - DEBUG -->  connection1 
+1607562135 - DEBUG -->  connection2 
+1607562135 - DEBUG --> %lemon% 
+1607562135 - DEBUG --> %:title% 
+1607562135 - DEBUG -->  connection3 
+1607562135 - DEBUG -->  connection4 
+1607562135 - DEBUG --> 1 
+1607562135 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607562135 - DEBUG -->  
+1607562135 - DEBUG -->  this actually did something 
+1607562135 - DEBUG --> lemon 
+1607562157 - DEBUG --> getting a connection 
+1607562204 - DEBUG --> got it 
+1607562204 - DEBUG --> getting a connection 
+1607562204 - DEBUG --> got the connection 
+1607562204 - DEBUG --> user =[jmartin@gmail.com] 
+1607562204 - DEBUG --> password =[7044e832d053e125482e947fbf14fda82ce068c8ab8d763662891976583c9e1f] 
+1607562204 - DEBUG --> gluten =[0] 
+1607562204 - DEBUG --> gluten =[0] 
+1607562204 - DEBUG --> gluten =[1] 
+1607562204 - DEBUG --> gluten =[0] 
+1607562204 - DEBUG --> gluten =[0] 
+1607562204 - DEBUG --> gluten =[1] 
+1607562204 - DEBUG --> gluten =[0] 
+1607562204 - DEBUG --> getting a connection 
+1607562252 - DEBUG --> getting a connection 
+1607562256 - DEBUG --> getting a connection 
+1607562258 - DEBUG --> getting a connection 
+1607562258 - DEBUG -->  
+1607562262 - DEBUG -->  
+1607562262 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562262 - DEBUG --> 1 
+1607562262 - DEBUG --> getting a connection 
+1607562262 - DEBUG --> 1 
+1607562262 - DEBUG --> 1 
+1607562262 - DEBUG --> 1 
+1607562262 - DEBUG --> 1 
+1607562262 - DEBUG --> 1 
+1607562262 - DEBUG --> 1 
+1607562262 - DEBUG --> 1 
+1607562262 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607562262 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607562262 - DEBUG --> jmartin@gmail.com 
+1607562262 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607562262 - DEBUG --> getting a connection 
+1607562262 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607562262 - DEBUG -->  
+1607562262 - DEBUG --> getting a connection 
+1607562262 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607562262 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607562262 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607562262 - DEBUG --> getting a connection 
+1607562262 - DEBUG -->  
+1607562270 - DEBUG -->  
+1607562270 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562270 - DEBUG --> 1 
+1607562270 - DEBUG --> getting a connection 
+1607562270 - DEBUG --> 1 
+1607562270 - DEBUG --> 1 
+1607562270 - DEBUG --> 1 
+1607562270 - DEBUG --> 1 
+1607562270 - DEBUG --> 1 
+1607562270 - DEBUG --> 1 
+1607562270 - DEBUG --> 1 
+1607562270 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607562270 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607562270 - DEBUG --> jmartin@gmail.com 
+1607562270 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607562270 - DEBUG --> getting a connection 
+1607562270 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607562270 - DEBUG --> jmartin@gmail.com 
+1607562270 - DEBUG --> getting a connection 
+1607562270 - DEBUG -->  
+1607562279 - DEBUG --> getting a connection 
+1607562285 - DEBUG --> getting a connection 
+1607562285 - DEBUG -->  
+1607562288 - DEBUG -->  
+1607562288 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562288 - DEBUG --> 2 
+1607562288 - DEBUG --> getting a connection 
+1607562288 - DEBUG --> 1 
+1607562288 - DEBUG --> 1 
+1607562288 - DEBUG --> 1 
+1607562288 - DEBUG --> 1 
+1607562288 - DEBUG --> 1 
+1607562288 - DEBUG --> 0 
+1607562288 - DEBUG --> 1 
+1607562288 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1607562288 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607562288 - DEBUG --> jmartin@gmail.com 
+1607562288 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607562288 - DEBUG --> getting a connection 
+1607562288 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607562288 - DEBUG -->  
+1607562288 - DEBUG --> getting a connection 
+1607562288 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1607562288 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607562288 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1607562288 - DEBUG --> getting a connection 
+1607562288 - DEBUG -->  
+1607562291 - DEBUG -->  
+1607562291 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562291 - DEBUG --> 3 
+1607562291 - DEBUG --> getting a connection 
+1607562291 - DEBUG --> 1 
+1607562291 - DEBUG --> 1 
+1607562291 - DEBUG --> 1 
+1607562291 - DEBUG --> 1 
+1607562291 - DEBUG --> 0 
+1607562291 - DEBUG --> 1 
+1607562291 - DEBUG --> 1 
+1607562291 - DEBUG --> 
+Green Salad with Shrimp and Wine Vinaigrette 
+1607562291 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607562291 - DEBUG --> jmartin@gmail.com 
+1607562291 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607562291 - DEBUG --> getting a connection 
+1607562291 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607562291 - DEBUG -->  
+1607562291 - DEBUG --> getting a connection 
+1607562291 - DEBUG --> 
+Green Salad with Shrimp and Wine Vinaigrette 
+1607562291 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607562291 - DEBUG --> https://www.tasteofhome.com/recipes/green-salad-with-shrimp-and-wine-vinaigrette/ 
+1607562291 - DEBUG --> getting a connection 
+1607562291 - DEBUG -->  
+1607562293 - DEBUG --> getting a connection 
+1607562301 - DEBUG --> bread 
+1607562301 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562301 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562301 - DEBUG -->  
+1607562301 - DEBUG --> bread 
+1607562301 - DEBUG --> fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm 
+1607562301 - DEBUG --> getting a connection 
+1607562301 - DEBUG -->  connection1 
+1607562301 - DEBUG -->  connection2 
+1607562301 - DEBUG --> %bread% 
+1607562301 - DEBUG --> %:title% 
+1607562301 - DEBUG -->  connection3 
+1607562301 - DEBUG -->  connection4 
+1607562301 - DEBUG --> 1 
+1607562301 - DEBUG --> jmartin@gmail.com 
+1607562301 - DEBUG -->  
+1607562301 - DEBUG --> 1 
+1607562301 - DEBUG -->  this actually did something 
+1607562325 - DEBUG --> getting a connection 
+1607562325 - DEBUG --> getting a connection 
+1607562325 - DEBUG --> go connection 
+1607562325 - DEBUG -->  the connection 
+1607562325 - DEBUG -->  connection 
+1607562325 - DEBUG --> success 1  
+1607562325 - DEBUG --> getting a connection 
+1607562329 - DEBUG --> getting a connection 
+1607562329 - DEBUG -->  
+1607562334 - DEBUG -->  
+1607562334 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607562334 - DEBUG --> 1 
+1607562334 - DEBUG --> getting a connection 
+1607562334 - DEBUG --> 1 
+1607562334 - DEBUG --> 1 
+1607562334 - DEBUG --> 1 
+1607562334 - DEBUG --> 1 
+1607562334 - DEBUG --> 1 
+1607562334 - DEBUG --> 1 
+1607562334 - DEBUG --> 1 
+1607562334 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607562334 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607562334 - DEBUG --> jmartin@gmail.com 
+1607562334 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607562334 - DEBUG --> getting a connection 
+1607562334 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607562334 - DEBUG --> jmartin@gmail.com 
+1607562334 - DEBUG --> getting a connection 
+1607562334 - DEBUG -->  
+1607562427 - DEBUG --> getting a connection 
+1607562427 - DEBUG -->  

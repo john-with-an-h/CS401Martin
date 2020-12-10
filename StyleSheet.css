@@ -66,14 +66,19 @@ img{
     text-transform: uppercase;
     font-size: 25px;
     font-weight: bold;
-    font-family: 'Florence';
+    font-family: 'Roboto Condensed', sans-serif;
+  
   }
   .howTo{
     text-align: center;
     margin: 20px;
     padding-bottom: 300px;
-
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
   }
+
+  
   
   footer {
     height: 40px;
@@ -82,4 +87,5 @@ img{
     background-color: rgb(24, 21, 21);
     color: white;
     text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
   }

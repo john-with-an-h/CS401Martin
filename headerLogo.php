@@ -11,7 +11,9 @@
     <link  href="myrecipesStyleSheet.css" type="text/css" rel="stylesheet" media= "screen">
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500&family=Martel&display=swap"  rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet" type="text/css">
-    
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="myScript.js"></script>
     
 </head>
 <header>

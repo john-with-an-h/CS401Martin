@@ -8,38 +8,48 @@
     text-transform: uppercase;
     font-size: 25px;
     font-weight: bold;
-    font-family: 'Comfortaa', cursive;
-    font-family: 'Martel', serif;
-}ß
-.Search input[type=text] {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.good {
+  border: black 1px solid;
+  padding: 10 15;
+  background-color: #01a325;
+  color: white;
+  text-align: center;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+  font-size: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-bottom: 5px;
+  width: 500px;
+}
+.recipeSearcher input[type=text] {
+
     position: static;
-    margin: 20px;
-    font-size: 40px;
-    font-family: 'Lato';
+    font-size: 30px;
+    
   }
-  .Search{
-    text-align: center;
-    padding-bottom: 10px;
+  .recipeSearcher input {
+    position: static;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
   }
-  .Search  button {
+
+
+  .recipeSearcher {
     position: static;
     text-align: center;
-    background: grey;
-    border: 2px solid black; 
-    border-radius: 8px;
-    font-size: 40px;
-    font-family: 'Florence';
-    cursor: pointer;
+    font-size: 30px;
   }
-  .results{
+
+  .resultsTable{
     position: static;
     color: rgb(15, 15, 15);
     text-align: center;
     margin: 60px;
-    padding-bottom: 100px;
-    text-transform: uppercase;
-    font-size: 25px;
-    font-weight: bold;
-    font-family: 'Florence';
+    padding-bottom: 50px;
+
 }
   

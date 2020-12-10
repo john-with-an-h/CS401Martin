@@ -2,8 +2,20 @@
 <?php require_once "Dao.php"?>
 <?php
 session_start();
+$logger = new KLogger ("logger.txt" , KLogger::DEBUG);
 $dao = new Dao();
-$recipes= $dao->getRecipes();
+if (isset($_SESSION["searchresults"])){
+  $logger->LogDebug($_SESSION["searchresults"]);
+  $name=$_SESSION["searchresults"];
+  $logger->LogDebug($name);
+  $logger->LogDebug("fsdjdsfgjsdfgjsdfgkjqwerii xcndvxmfgmxcbmxcbvm");
+  $recipes=$dao->searchRecipes($name);
+  $logger->LogDebug(" this actually did something");
+  unset($_SESSION["searchresults"]);
+}else{
+  $recipes= $dao->getRecipes();
+}
+///$recipes=$dao->searchRecipes("gluten");
 ?>
 
   </main>
@@ -12,14 +24,45 @@ $recipes= $dao->getRecipes();
       <div class="RTitle">
         <h2>Recipes</h2>
       </div>
-      <div class="Search">
-        <input type="text" placeholder="Search..">
-        <button type="search">Search</button>
-      </div>
+      <?php 
+
+      if (isset($_SESSION['bad'])) {
+        foreach ($_SESSION['bad'] as $message){
+          echo "<div class='bad'>{$message}<span class='fadeout'> X </span></div>";
+        }
+       
+      }
+      if (isset($_SESSION['good'])) {
+        foreach ($_SESSION['good'] as $message){
+          echo "<div class='good'>{$message}<span class='fadeout'> X </span></div>";
+        }
+       
+      }
+      unset($_SESSION["good"]);
+      unset($_SESSION["bad"]);
+      $_SESSION['bad'] = array();
+    ?>
       <form method="post" action ="RecipesHandler.php">
+
+      <div class="recipeSearcher">
+      <input id="recipeSearch" type ="text" placeholder="Search.." name="recipeSearch" 
+      <?php 
+      $logger->LogDebug( $_SESSION["search"]);
+      $s=$_SESSION["search"];
+      $san= filter_var($s,FILTER_SANITIZE_SPECIAL_CHARS);
+      echo "value='{$san}'";
+      unset($_SESSION["search"]);
+      ?>
+      />
+      <input type="submit"  value="Search"/>
+      </div>
+      </form>
+      <form method="post" action ="RecipesHandler.php">
+      <div class="resultsTable">
       <table id="results">
       <?php 
       echo "<tr>";
+      echo "<th>" . "  " . "</th>";
       echo "<th>" . "Title  " . "</th>";
       echo "<th>" . "Gluten   " . "</th>";
       echo "<th>" . "Lactose  " . "</th>";
@@ -31,11 +74,16 @@ $recipes= $dao->getRecipes();
       echo "<th>" . "Link   " . "</th>";
       echo "</tr>";
       echo "<tr>";
+      $i = 0;
       foreach ($recipes as $recipe) {
-        $_SESSION['recipes']= $recipe;
-        $s = '$recipe[8]';
-        $r ="submit[$s]";
-    echo "<td>". " <input type='submit' name='submit[$s]' value='Add'>" . $recipe[8] . "</td>";
+        
+        $_SESSION['recipes'[$i]]= $recipe[0];
+        //$s = '$recipe[8]';
+        //$r ="submit[$s]";
+    
+      echo "<td>".'<input type="submit" name="clicked['.$i.']" value="Add" />'."</td>";
+    //echo "<td>". " <input type='submit' name='submit[$s]' value='Add'>"."</td>";
+    echo "<td>" . $recipe[8] . "</td>";
    if($recipe[1] ==1){
     $recipe[1]="yes";
    }else{
@@ -81,21 +129,15 @@ $recipes= $dao->getRecipes();
     echo "<td>" . $recipe[7] . "</td>";
     echo "<td>" . $recipe[0] . "</td>";
     echo "</tr>";
+  $i=$i+1;
 }
 
 ?>
 
  </form>
 </table>
-<?php 
+</div>
 
-      if (isset($_SESSION['bad'])) {
-        foreach ($_SESSION['bad'] as $message){
-          echo "<div class ='signupMessage'> ($message)</div>";
-        }
-        $_SESSION['bad'] = array();
-      }
-    ?>
 
     </article>
   </body>

@@ -10,13 +10,24 @@ session_start();
     <article>
       <div class="loginTitle">
         <h1>Please Put in your information to log in</h1>
+       
         <?php
     if (isset($_SESSION["status"])) {
-      echo "<div id=".$status.">" .  $_SESSION["status"] . "</div>";
+      echo "<div class='message'>";
+      foreach ($_SESSION["status"] as $message){
+        //echo "<div class ='signupMessage'> ($message)</div>";
+        //echo " <span class='closebtn' onclick='this.parentElement.style.display='none';' $_SESSION['status'] >&times";
+        echo "<div class='bad'>{$message}<span class='fadeout'> X </span></div>";
+      
+      }
+      echo "</div>";
+      //echo " <script> $('#warning').delay(50).fadeOut();</script> ";
       unset($_SESSION["status"]);
     }
     ?>
-      <form method="post" action ="loginHandler.php">
+    
+
+    <form method="post" action ="loginHandler.php">
       <div class="loginUsername">
       <div> <label for="email">Enter your email:</label><input id="email" type ="text" name="email"
       <?php if (isset($_SESSION['bad'])) {
@@ -35,6 +46,7 @@ session_start();
       if (isset($_SESSION['bad'])) {
         foreach ($_SESSION['bad'] as $message){
           echo "<div class ='signupMessage'> ($message)</div>";
+         // echo " <span class='closebtn' onclick='this.parentElement.style.display='none';'($message)>&times";
         }
         $_SESSION['bad'] = array();
       }?>

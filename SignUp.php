@@ -17,14 +17,18 @@ session_start();
         <h1>Please put in your information and food allergies</h1>
       </div>
       <?php
-    if (isset($_SESSION["status"])) {
-      echo "<div id=".$status.">" .  $_SESSION["status"] . "</div>";
+      if (isset($_SESSION['bad'])) {
+        foreach ($_SESSION['bad'] as $message){
+          echo "<div class='bad'>{$message}<span class='fadeout'> X </span></div>";
+        }
+        $_SESSION['bad'] = array();
+
       unset($_SESSION["status"]);
     }
     ?>
       <form method="post" action ="SignUpHandler.php">
       <div class="signupUsername">
-      <div> <label for="email">Enter your email:</label><input id="email" type ="text" name="signupemail" 
+      <div> <label for="email">Enter your email: </label><input id="email" type ="text" name="signupemail" 
       <?php if (isset($_SESSION['email'])) {
         $san= filter_var($_SESSION["email"],FILTER_SANITIZE_SPECIAL_CHARS);
       echo "value='{$san}'";
@@ -100,13 +104,7 @@ session_start();
       <div> <input type="submit" value="Sign Up"></div>
       </div>
       </form>
-      <?php 
-      if (isset($_SESSION['bad'])) {
-        foreach ($_SESSION['bad'] as $message){
-          echo "<div class ='signupMessage'> ($message)</div>";
-        }
-        $_SESSION['bad'] = array();
-      }?>
+   
 
     </article>
   </body>

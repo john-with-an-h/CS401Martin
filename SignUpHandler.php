@@ -108,7 +108,7 @@ if($soyAllergy=="Yes"){
 }
 if($_SESSION["access_granted"]){
     $status =  "You are already signed in.";
-  $_SESSION["status"] = $status;
+  $_SESSION["bad"] []= $status;
 header("Location:SignUp.php");
 }else{
 if ($signupPassword==$confirmPassword) {
@@ -121,19 +121,19 @@ if ($signupPassword==$confirmPassword) {
     header("Location:granted.php"); 
    }else{
     $_SESSION["access_granted"] = false;
-    $_SESSION['status'] = "There is already an account with that email please login";
+    $_SESSION['bad'] []= "There is already an account with that email please login";
     header("Location:SignUp.php");
    } 
     }else {
     $status = "Not a valid email";
-  $_SESSION["status"] = $status;
+  $_SESSION["bad"] []= $status;
   $_SESSION["access_granted"] = false;
   header("Location:SignUp.php");
     }
   
 } else {
   $status = "Passwords do not match";
-  $_SESSION["status"] = $status;
+  $_SESSION["bad"] []= $status;
   $_SESSION["access_granted"] = false;
   header("Location:SignUp.php");
   exit();

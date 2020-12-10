@@ -9,11 +9,11 @@ private $pass = "0e337b8e";
 //return
 //ew PDO("mysql:host={$this->host};dbname={$this->db}"
 
-/*private $user = 'root';
-private $pass = 'root';
-private $db = 'sys';
-private $host = 'localhost';
-private $port = 8889;*/
+//private $user = 'root';
+//private $pass = 'root';
+//private $db = 'sys';
+//private $host = 'localhost';
+//private $port = 8889;
 
 
 public $logger;
@@ -99,12 +99,76 @@ public function getRecipes() {
     $getQuery = "SELECT * FROM recipes";
     $q = $conn->prepare($getQuery);
     $q->execute();
+
     return $q->fetchAll();
-  }
+}
+public function searchSavedRecipes($title, $email) {
+  $text= "%".$title."%";
+  $conn = $this->getConnection();
+    $getQuery = "SELECT * FROM savedRecipes where userEmail=? and title like ?";
+    //$q->bindParam(":userEmail", $userEmail);
+    $params = array( $email,"%$title%");
+    $q = $conn->prepare($getQuery);
+    $q->execute($params);
+    $this->logger->LogDebug(" connection1");
+   // $q = $conn->prepare($getQuery);
+    $this->logger->LogDebug(" connection2");
+    $this->logger->LogDebug($text);
+    //$q->bindParam(":title", $text);
+    //$q->bindValue(':title', $text,PDO::PARAM_STR);
+    $this->logger->LogDebug("%:title%");
+    //$this->logger->LogDebug($q);
+    //$this->logger->LogDebug($title);
+    $this->logger->LogDebug(" connection3");
+   // $q->execute();
+   // $this->logger->LogDebug($q[0]);
+    $this->logger->LogDebug(" connection4");
+    $t =$q->fetchAll();
+    //$y = $q->fetchAll(PDO::FETCH_ASSOC);
+    $this->logger->LogDebug(sizeof($t));
+    foreach ($y as $recipe) {
+      $logger->LogDebug("zdjadsfjasdfj afsdjasdfjsadjasdfj");
+      $this->logger->LogDebug($recipe[0][0]);
+    }
+    $this->logger->LogDebug($t[0][0]);
+    $this->logger->LogDebug($y);
+    return $t;
+}
+public function searchRecipes($title) {
+  $text= "%".$title."%";
+  $conn = $this->getConnection();
+    $getQuery = "SELECT * FROM recipes where title like ?";
+    $params = array( "%$title%");
+    $q = $conn->prepare($getQuery);
+    $q->execute($params);
+    $this->logger->LogDebug(" connection1");
+   // $q = $conn->prepare($getQuery);
+    $this->logger->LogDebug(" connection2");
+    $this->logger->LogDebug($text);
+    //$q->bindParam(":title", $text);
+    //$q->bindValue(':title', $text,PDO::PARAM_STR);
+    $this->logger->LogDebug("%:title%");
+    //$this->logger->LogDebug($q);
+    //$this->logger->LogDebug($title);
+    $this->logger->LogDebug(" connection3");
+   // $q->execute();
+   // $this->logger->LogDebug($q[0]);
+    $this->logger->LogDebug(" connection4");
+    $t =$q->fetchAll();
+    //$y = $q->fetchAll(PDO::FETCH_ASSOC);
+    $this->logger->LogDebug(sizeof($t));
+    foreach ($y as $recipe) {
+      $logger->LogDebug("zdjadsfjasdfj afsdjasdfjsadjasdfj");
+      $this->logger->LogDebug($recipe[0][0]);
+    }
+    $this->logger->LogDebug($t[0][0]);
+    $this->logger->LogDebug($y);
+    return $t;
+}
 
   public function getRecipe($link) {
     $conn = $this->getConnection();
-    $getQuery = "SELECT link, glutenAllergy, lactoseAllergy, peanutAllergy, treeNutsAllergy, shellFishAllergy, eggsAlllergy, soyAllergy, title FROM recipes WHERE link = :link";
+    $getQuery = "SELECT * FROM recipes WHERE link = :link";
     $q = $conn->prepare($getQuery);
     $q->bindParam(":link", $link);
     $q->execute();
@@ -117,17 +181,17 @@ public function getRecipes() {
 
   public function getSavedRecipe($userEmail) {
     $conn = $this->getConnection();
-    $this->logger->LogDebug("user =[{$userEmail}]");
+    //$this->logger->LogDebug("user =[{$userEmail}]");
     $getQuery = "SELECT * FROM savedRecipes WHERE userEmail = :userEmail";
     $q = $conn->prepare($getQuery);
     $q->bindParam(":userEmail", $userEmail);
     $q->execute();
-    $this->logger->LogDebug("user =");
-    $e= $q->fetchAll();
-    $this->logger->LogDebug("This did it not work: " . print_r($e, 1));
+    //$this->logger->LogDebug("user =");
+    //$e= $q->fetchAll();
+    //$this->logger->LogDebug("This did it not work: " . print_r($e, 1));
     return $q->fetchAll();
   }
-public function saveRecipe($link, $lactoseAllergy, $peanutsAllergy, $treeNutsAllergy, $shellFishAllergy, $eggsAllergy, $soyAllergy, $title) {
+public function saveRecipe($link, $glutenAllergy, $lactoseAllergy, $peanutsAllergy, $treeNutsAllergy, $shellFishAllergy, $eggsAllergy, $soyAllergy, $title) {
     $conn = $this->getConnection();
     $saveQuery =
         "INSERT INTO recipes
@@ -147,14 +211,14 @@ public function saveRecipe($link, $lactoseAllergy, $peanutsAllergy, $treeNutsAll
     $q->bindParam(":title", $title);
     $q->execute();
 }
-public function saveMyRecipe($userEmail, $lactoseAllergy, $peanutsAllergy, $treeNutsAllergy, $shellFishAllergy, $eggsAllergy, $soyAllergy, $title, $link) {
+public function saveMyRecipe($userEmail, $glutenAllergy,$lactoseAllergy, $peanutsAllergy, $treeNutsAllergy, $shellFishAllergy, $eggsAllergy, $soyAllergy, $title, $link) {
     $conn = $this->getConnection();
     $saveQuery =
         "INSERT INTO savedRecipes
         (userEmail, glutenAllergy, lactoseAllergy, peanutsAllergy, treeNutsAllergy, 
         shellFishAllergy, eggsAllergy, soyAllergy, title, link)
         VALUES
-        (:userEmail, :glutenAllergy, :lactoseAllergy, :peanutsAllergy, :treeNutsAllergy, :shellFishAllergy, :eggsAllergy, :soyAllergy, :title, link)";
+        (:userEmail, :glutenAllergy, :lactoseAllergy, :peanutsAllergy, :treeNutsAllergy, :shellFishAllergy, :eggsAllergy, :soyAllergy, :title, :link)";
     $q = $conn->prepare($saveQuery);
     $q->bindParam(":userEmail", $userEmail);
     $q->bindParam(":glutenAllergy", $glutenAllergy);
@@ -165,8 +229,24 @@ public function saveMyRecipe($userEmail, $lactoseAllergy, $peanutsAllergy, $tree
     $q->bindParam(":eggsAllergy", $eggsAllergy);
     $q->bindParam(":soyAllergy", $soyAllergy);
     $q->bindParam(":title", $title);
+    //$this->logger->LogDebug("  check hsdjsdj sajasdfj asdjasdfj    ");
+    $this->logger->LogDebug($title);
     $q->bindParam(":link", $link);
+   // $this->logger->LogDebug("this is a link" . $link);
     $q->execute();
+    //$this->logger->LogDebug($chek);
+}
+public function checkRecipe($userEmail, $link) {
+  $conn = $this->getConnection();
+  $saveQuery =
+      "Select* from savedRecipes where userEmail =:userEmail and  link= :link";
+  $q = $conn->prepare($saveQuery);
+  $q->bindParam(":userEmail", $userEmail);
+  $q->bindParam(":link", $link);
+  $q->execute();
+  
+  return $q->fetchAll();
+  //$this->logger->LogDebug($chek);
 }
 }
 ?>
