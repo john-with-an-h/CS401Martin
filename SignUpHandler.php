@@ -13,20 +13,18 @@ $_SESSION["email"] = $_POST["signupemail"];
 $userEmail=$_POST['signupemail'];
 if(strlen($userEmail)>256||$userEmail==null){
     $_SESSION['bad'][] = "Email is not valid must be under 256 characters";
-    header("Location:SignUp.php");
+    
     
 }
 $signupPassword=$_POST["signuppassword"];
 if(strlen($signupPassword)>64||$signupPassword==null){
     $_SESSION['bad'][] = "Password is not valid must be under 64 characters";
-    header("Location:SignUp.php");
+    
     
 }
 $confirmPassword=$_POST["confirmpassword"];
 if(strlen($confirmPassword)>64||$confirmPassword==null){
     $_SESSION['bad'][] = "Password is not valid must be under 64 characters";
-    header("Location:SignUp.php");
-    exit();
 }
 $glutenAllergy=$_POST["gluten"];
 $_SESSION["gluten"] = $_POST["gluten"];
@@ -122,21 +120,25 @@ if ($signupPassword==$confirmPassword) {
    }else{
     $_SESSION["access_granted"] = false;
     $_SESSION['bad'] []= "There is already an account with that email please login";
-    header("Location:SignUp.php");
+
    } 
     }else {
     $status = "Not a valid email";
   $_SESSION["bad"] []= $status;
   $_SESSION["access_granted"] = false;
-  header("Location:SignUp.php");
+
     }
   
 } else {
   $status = "Passwords do not match";
   $_SESSION["bad"] []= $status;
   $_SESSION["access_granted"] = false;
-  header("Location:SignUp.php");
-  exit();
+
+  
+}
+if (isset($_SESSION["bad"] )){
+    unset($_SESSION["bad"] );
+    header("Location:SignUp.php");
 }
 }
 ?>

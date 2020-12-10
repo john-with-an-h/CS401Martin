@@ -848,3 +848,110 @@ Creamy Cauliflower Pakora Soup
 1607562334 - DEBUG -->  
 1607562427 - DEBUG --> getting a connection 
 1607562427 - DEBUG -->  
+1607563106 - DEBUG --> getting a connection 
+1607563106 - DEBUG --> getting a connection 
+1607563107 - DEBUG --> go connection 
+1607563107 - DEBUG -->  the connection 
+1607563107 - DEBUG -->  connection 
+1607563107 - DEBUG --> success 1  
+1607563197 - DEBUG --> got it 
+1607563197 - DEBUG --> getting a connection 
+1607563197 - DEBUG --> got the connection 
+1607563197 - DEBUG --> user =[thee@gmial.com] 
+1607563197 - DEBUG --> password =[7044e832d053e125482e947fbf14fda82ce068c8ab8d763662891976583c9e1f] 
+1607563197 - DEBUG --> gluten =[1] 
+1607563197 - DEBUG --> gluten =[1] 
+1607563197 - DEBUG --> gluten =[0] 
+1607563197 - DEBUG --> gluten =[0] 
+1607563197 - DEBUG --> gluten =[1] 
+1607563197 - DEBUG --> gluten =[0] 
+1607563197 - DEBUG --> gluten =[0] 
+1607563205 - DEBUG --> getting a connection 
+1607563272 - DEBUG --> got it 
+1607563272 - DEBUG --> getting a connection 
+1607563272 - DEBUG --> got the connection 
+1607563272 - DEBUG --> user =[thet@gmial.com] 
+1607563272 - DEBUG --> password =[7044e832d053e125482e947fbf14fda82ce068c8ab8d763662891976583c9e1f] 
+1607563272 - DEBUG --> gluten =[1] 
+1607563272 - DEBUG --> gluten =[1] 
+1607563272 - DEBUG --> gluten =[0] 
+1607563272 - DEBUG --> gluten =[0] 
+1607563272 - DEBUG --> gluten =[1] 
+1607563272 - DEBUG --> gluten =[0] 
+1607563272 - DEBUG --> gluten =[0] 
+1607563272 - DEBUG --> getting a connection 
+1607563275 - DEBUG --> getting a connection 
+1607563278 - DEBUG --> getting a connection 
+1607563279 - DEBUG -->  
+1607563281 - DEBUG -->  
+1607563281 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607563281 - DEBUG --> 1 
+1607563281 - DEBUG --> getting a connection 
+1607563282 - DEBUG --> 1 
+1607563282 - DEBUG --> 1 
+1607563282 - DEBUG --> 1 
+1607563282 - DEBUG --> 1 
+1607563282 - DEBUG --> 1 
+1607563282 - DEBUG --> 1 
+1607563282 - DEBUG --> 1 
+1607563282 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607563282 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607563282 - DEBUG --> thet@gmial.com 
+1607563282 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607563282 - DEBUG --> getting a connection 
+1607563282 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607563282 - DEBUG -->  
+1607563282 - DEBUG --> getting a connection 
+1607563282 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607563282 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607563282 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607563282 - DEBUG --> getting a connection 
+1607563283 - DEBUG -->  
+1607563286 - DEBUG -->  
+1607563286 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607563286 - DEBUG --> 3 
+1607563286 - DEBUG --> getting a connection 
+1607563287 - DEBUG --> 1 
+1607563287 - DEBUG --> 1 
+1607563287 - DEBUG --> 1 
+1607563287 - DEBUG --> 0 
+1607563287 - DEBUG --> 1 
+1607563287 - DEBUG --> 1 
+1607563287 - DEBUG --> 1 
+1607563287 - DEBUG --> Lemon Rice Salad 
+1607563287 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607563287 - DEBUG --> thet@gmial.com 
+1607563287 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607563287 - DEBUG --> getting a connection 
+1607563287 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607563287 - DEBUG -->  
+1607563287 - DEBUG --> getting a connection 
+1607563288 - DEBUG --> Lemon Rice Salad 
+1607563288 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607563288 - DEBUG --> https://www.tasteofhome.com/recipes/lemon-rice-salad/ 
+1607563288 - DEBUG --> getting a connection 
+1607563288 - DEBUG -->  
+1607563290 - DEBUG -->  
+1607563290 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1607563290 - DEBUG --> 1 
+1607563290 - DEBUG --> getting a connection 
+1607563291 - DEBUG --> 1 
+1607563291 - DEBUG --> 1 
+1607563291 - DEBUG --> 1 
+1607563291 - DEBUG --> 1 
+1607563291 - DEBUG --> 1 
+1607563291 - DEBUG --> 1 
+1607563291 - DEBUG --> 1 
+1607563291 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1607563291 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607563291 - DEBUG --> thet@gmial.com 
+1607563291 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1607563291 - DEBUG --> getting a connection 
+1607563291 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1607563291 - DEBUG --> thet@gmial.com 
+1607563291 - DEBUG --> getting a connection 
+1607563292 - DEBUG -->  
+1607563298 - DEBUG --> getting a connection 
