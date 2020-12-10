@@ -137,7 +137,7 @@ if ($signupPassword==$confirmPassword) {
   
 }
 if (isset($_SESSION["bad"] )){
-    unset($_SESSION["bad"] );
+    //unset($_SESSION["bad"] );
     header("Location:SignUp.php");
 }
 }

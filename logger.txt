@@ -955,3 +955,24 @@ Creamy Cauliflower Pakora Soup
 1607563291 - DEBUG --> getting a connection 
 1607563292 - DEBUG -->  
 1607563298 - DEBUG --> getting a connection 
+1607563587 - DEBUG --> getting a connection 
+1607563598 - DEBUG --> getting a connection 
+1607563608 - DEBUG --> getting a connection 
+1607563609 - DEBUG --> getting a connection 
+1607563610 - DEBUG --> go connection 
+1607563610 - DEBUG -->  the connection 
+1607563610 - DEBUG -->  connection 
+1607563610 - DEBUG --> success 1  
+1607563763 - DEBUG --> got it 
+1607563763 - DEBUG --> getting a connection 
+1607563763 - DEBUG --> got the connection 
+1607563763 - DEBUG --> user =[there@gmial.com] 
+1607563763 - DEBUG --> password =[7044e832d053e125482e947fbf14fda82ce068c8ab8d763662891976583c9e1f] 
+1607563763 - DEBUG --> gluten =[1] 
+1607563763 - DEBUG --> gluten =[1] 
+1607563763 - DEBUG --> gluten =[0] 
+1607563763 - DEBUG --> gluten =[0] 
+1607563763 - DEBUG --> gluten =[1] 
+1607563763 - DEBUG --> gluten =[0] 
+1607563763 - DEBUG --> gluten =[0] 
+1607563763 - DEBUG --> getting a connection 

@@ -22,7 +22,7 @@ session_start();
           echo "<div class='bad'>{$message}<span class='fadeout'> X </span></div>";
         }
         $_SESSION['bad'] = array();
-
+        unset($_SESSION["bad"] );
       unset($_SESSION["status"]);
     }
     ?>
